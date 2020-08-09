@@ -33,8 +33,8 @@ A stand-alone application packaged with documentation, which allows user to run 
 shell script in following manner.  
 
 ```sh
-news_feed.sh - containing
-python news_scrapper.py —root_dir=<output directory> —source_list=<file containing news sites>
+../news_feed.sh 
+(It contains python news_scrapper.py —root_dir=<output directory> —source_list=<file containing news sites>)
 ```
 For flask server component, please make sure that it’s minimal and you can showcase your
 knowledge of REST APIs, etc…
